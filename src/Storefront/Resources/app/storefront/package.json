@@ -39,7 +39,7 @@
     "hammerjs": "2.0.8",
     "history": "4.10.1",
     "lighthouse": "9.2.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "mini-css-extract-plugin": "2.7.2",
     "puppeteer": "13.1.2",
     "query-string": "7.1.3",
